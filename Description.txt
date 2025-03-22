@@ -1,0 +1,2 @@
+Dataset link: https://www.kaggle.com/datasets/steubk/wikiart
+Wikiart Website: https://www.wikiart.org/
